@@ -6,7 +6,9 @@ Welcome to the Gesture-Based Volume Control Python project! This project brings 
 
 ## 2. Description
 
-This Python script utilizes the power of OpenCV for image processing and the Mediapipe library for hand tracking. The combination of these libraries enables real-time hand tracking and gesture recognition from the webcam feed. As the distance between the thumb and index finger increases, the volume increases and vice versa. For a step-by-step explanation of the code, [Click Here](https://medium.com/@bakshi.agnik/adjusting-volume-using-hand-gestures-in-python-d122181505b2)
+This Python script utilizes the power of OpenCV for image processing and the Mediapipe library for hand tracking. The combination of these libraries enables real-time hand tracking and gesture recognition from the webcam feed. As the distance between the thumb and index finger increases, the volume increases and vice versa. 
+
+For a step-by-step explanation of the code, feel free to visit my blog by [clicking here](https://medium.com/@bakshi.agnik/adjusting-volume-using-hand-gestures-in-python-d122181505b2)
 
 ## 3. How to Run the Code
 
